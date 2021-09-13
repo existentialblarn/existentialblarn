@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @existentialblarn
 - 👀 I’m interested in science and health communication, arts and culture.
-- 🌱 I’m currently formally learning communication research but expanding my data analysis toolbox with R.
+- 🌱 I’m currently studying communication research but expanding my data analysis toolbox with R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @fueledbygertrude
 
